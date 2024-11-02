@@ -4,6 +4,13 @@
   color: #fff;
   font-size: .8rem;
   justify-content: space-between;
+  background-color: rgb(94, 94, 94);
+  padding: 1%;
+  border-radius: 7px;
+  -webkit-border-radius: 7px;
+  -moz-border-radius: 7px;
+  -ms-border-radius: 7px;
+  -o-border-radius: 7px;
 }
 
 .tw-followCard-header {
